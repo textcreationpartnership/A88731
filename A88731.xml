@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last newes from the Kings Majesties army now at Maidenhead: containing many remarkable passages, with Prince Robert his intentions. Also matters worthy of observation in and about the cities of London and Westminster, with severall proceedings of both Houses of Parliament to this present 11. of November.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88731</idno><idno type="EEBO-CITATION">99871467</idno>
+  <idno type="VID">156190</idno>
+  <idno type="EEBO-PROQUEST">2240934519</idno>
+  
+            <idno type="STC">Wing L497</idno>
+            <idno type="STC">Thomason E127_4</idno>
+            <idno type="STC">ESTC R21639</idno>
+            <idno type="PROQUEST">99871467</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99871467e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88731)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156190)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 22:E127[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last newes from the Kings Majesties army now at Maidenhead: containing many remarkable passages, with Prince Robert his intentions. Also matters worthy of observation in and about the cities of London and Westminster, with severall proceedings of both Houses of Parliament to this present 11. of November.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Watson and J. Jackson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Novemb. 11. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Rupert, --  Prince, Count Palatine, 1619-1682 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156190:1"/>
+            <p>THE LAST NEWES <hi>FROM</hi> THE KINGS MAJESTIES Army now at MAIDENHEAD: CONTAINING Many Remarkable Passages, with Prince ROBERT his Intentions.</p>
+            <p>
+               <hi>ALSO</hi> Matters worthy of observation in and about the Ctiies of <hi>London</hi> and <hi>Westminster,</hi> with severall Pro<g ref="char:EOLhyphen"/>ceedings of both Houses of Parliament to this present 11. of <hi>November.</hi>
+            </p>
+            <p>
+               <hi>LONDON, Novemb.</hi> 11. Printed for <hi>T. Watson</hi> and <hi>J. Jackson.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156190:2"/>
+            <pb n="1" facs="tcp:156190:2"/>
+            <head>The last Intelligence from His Majesties Army, together with Prince <hi>Roberts</hi> intentions, and other remarkable Passages and Proceedings in both Houses of Parlia<g ref="char:EOLhyphen"/>ment to this present <hi>11.</hi> of <hi>November.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>T is a Maxime undeniable, that <hi>belli alea est incerta,</hi> the chance of warre is uncertain: even in lawfull under<g ref="char:EOLhyphen"/>takings the successe is often ambigu<g ref="char:EOLhyphen"/>ous, &amp; proves contrary to our hopes somtimes; much more when two great Armies are met together, (such is the hazard of war) which of the two valiant Generals shalbe master of the field, is hard to determine: no mortall man can resolve this <hi>quaere,</hi> only the God of battels and Lord of hosts doth assigne victory to what and whose For<g ref="char:EOLhyphen"/>ces, as himselfe pleaseth. At this present in regard of civill wars begun and continued amongst us, we are involved in a labyrinth of calamity, reduced to the very brink of misery and jawes of death. It is true, <hi>England</hi> and <hi>London</hi> never enjoyed so univer<g ref="char:EOLhyphen"/>sall and blessed a peace as for a long time they have had, neither have they been molested or disturbed with any visible enemy in the world, either Chri<g ref="char:EOLhyphen"/>stia or Infidell: our enemies are they of our owne house, such as our discords, divisions and distracti<g ref="char:EOLhyphen"/>ons have raised up: and certainly where these are found (especially betwixt a King and his people) there is no greater cause of the misery and ruine of
+<pb n="2" facs="tcp:156190:3"/>a State. The Scripture informeth us; that a little ci<g ref="char:EOLhyphen"/>ty united is very strong, but a great kingdome divi<g ref="char:EOLhyphen"/>ded within it selfe cannot stand: there is not more strength and security in the one, then disquiet and instability in the other. From these premises this in<g ref="char:EOLhyphen"/>serence I deduct, that our unhappy divisions and discords are the chief cause of our past troubles, present jealousies, and suture feares: so that <hi>Perditio tua est ex te,</hi> we may thank our selves for the mise<g ref="char:EOLhyphen"/>ries we our selves have brought upon our selves. <hi>In<g ref="char:EOLhyphen"/>tra muros hostis,</hi> the enemy is within the wals. The Parliament is informed of a malignant party with<g ref="char:EOLhyphen"/>in the city of <hi>London,</hi> that hath privately endeavou<g ref="char:EOLhyphen"/>red to invite the Kings Army to besiege <hi>London,</hi> promising to use their utmost power to betray the city into Prince <hi>Roberts</hi> possession. Whereupon it was ordered, that a Warrant in the name of both Houses should be sent to the Lord Maior, to have a speciall care of guarding the city, and to apprehend such malevolent and ill-affected persons in whom they could not confide, but are suspected will prove trecherous when opportunity shall concurre with their desires. There is no better way to eschew a d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nger, then to premeditate of it before it come: and in a State, the wisdome of prevention is far be<g ref="char:EOLhyphen"/>yond the wisdome of remedies. <hi>Praemoniti sunt prae<g ref="char:EOLhyphen"/>muniti,</hi> they who are fore-warned are fore-armed. Hence is it that the great Councell of the Kingdom have been so circumspect for the publike good; as to put the Kingdome into a posture of defence, and strongly to fortifie the city of <hi>London,</hi> by enjoynin<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="3" facs="tcp:156190:3"/>all the trained Bands to be in a readinesse, amongst whom there are multitudes of soldiers lately come out of <hi>Essex,</hi> and now resident about the city. Hence is it that there are such trenches &amp; bulwarks made in all places neer this city for the safety therof, that drums daily beat for more voluntiers to stand for the defence of the true Protestant Religion, the safe<g ref="char:EOLhyphen"/>ty of His Majesties Person, the priviledges of Par<g ref="char:EOLhyphen"/>liament, and the happy peace of the whole King<g ref="char:EOLhyphen"/>dome. Hence is it that there is such incessant march<g ref="char:EOLhyphen"/>ing up &amp; down in the day, and such strong Courts of Guard in the night, and field-pieces of ordnance at every gate, and many other places, for preservati<g ref="char:EOLhyphen"/>on of the city against the invasion of the enemy. Our adversaries are neer us, and their approach may be sudden, and sooner then we expect, and the hor<g ref="char:EOLhyphen"/>rible outrages and insolencies which the Cavaliers have lately committed in all countreys where they have come, do teach the Citizens to put themselves into a posture of defence, least the Cavaliers having once entred <hi>London,</hi> (which God avert) should at<g ref="char:EOLhyphen"/>tempt the like rapine and mischiefe, by plundering and pillaging them as lately they have done others. Prince <hi>Robert</hi> (they say) is become a notable Rob<g ref="char:EOLhyphen"/>ber, who hath lately in his advancing towards <hi>Lon<g ref="char:EOLhyphen"/>don</hi> seized upon whole cart-loads and waggons full of cloth coming to the city out of <hi>Glocestershire:</hi> His running army run away with all that they meet with in their way, and care not how they come by it so they may have it:
+<q xml:lang="lat">
+                  <pb n="4" facs="tcp:156190:4"/> Unde habeant nemo quaerit, sed oportet habere.</q> Meanes they must and will haue, they feare not by to haue it, they desire nothing more then to obtayne their own ends by a generall divastation and ruine of their own Countrey, they expect to be happy by others misery, and rich by their poverty; they would infringe our liberties, ensnare our conscien<g ref="char:EOLhyphen"/>ces, haue swallowed us up long a goe in theire thoughts, having fancied to themselues the besie<g ref="char:EOLhyphen"/>ging, and taking of the City of London, and (if re<g ref="char:EOLhyphen"/>port be true) haue divided the streetes among them selues already, hoping all to haue Aldermens estates and to raise their decayed estates and lost fortunes by the fall and mine of others. These are their in<g ref="char:EOLhyphen"/>tentions and practices, many of them having sup<g ref="char:EOLhyphen"/>plied their necessities with ransacking of rich mens houses in townes, cities and countreys. Prince <hi>Ro<g ref="char:EOLhyphen"/>bert</hi> an excellent horseman, and chief Captain of the Cavaliers (whose name signifies an horse-rider, be<g ref="char:EOLhyphen"/>ing derived from the French word <hi>Chevalier</hi>) did to his utmost power seek to pillage his Excellencies waggons and carts loaden with silver and other ne<g ref="char:EOLhyphen"/>cessary provision the last great battell at <hi>Kinton</hi> neer <hi>Banbury,</hi> which was the bloudiest battell for its continuance, that ever was fought in <hi>England:</hi> since which fight he hath menaced (if fame be not false) that when once he can but get into <hi>London,</hi> he will sell smocks as cheap as herrings are now sold in the city, he meant (as they say) the smocks of such as have caried their plate into <hi>Guild-Hall.</hi> In regard of these threatning speeches, and the like violent and
+<pb n="5" facs="tcp:156190:4"/>notorious actions, we have just cause to fear and be jealous: and therefore it is that the Commons of <hi>England</hi> do fear, for which cause they have put the Kingdome into a posture of defence; and in the ci<g ref="char:EOLhyphen"/>ty of <hi>London</hi> every man stands upon his own guard; the former being an act of State-policy, and the latter an action of prudent security. Long may the Commons continue in their renowned resolution, and be united together as one man for the common good; and may our couragious Citizens like vali<g ref="char:EOLhyphen"/>ant Centurions of old) march up and down for the safety of their Metropolis, and undauntedly stand in opposition, to keep out of their gates the outra<g ref="char:EOLhyphen"/>gious Cavaliers. If they once enter with their for<g ref="char:EOLhyphen"/>ces into <hi>London,</hi> we are then in great danger, but the Lord forbid they ever should, and I pray God they never may. In the mean time let us not cease to pray unto our good God, upon the bended knees of our soules, from the bottome of our hearts, that he would be graciously pleased to put a period to these unnaturall jarres, and uncivill warres, in his good time and pleasure; that these dismall clouds of dis<g ref="char:EOLhyphen"/>sention and difference may be dissipated and scatte<g ref="char:EOLhyphen"/>red, that there may be a cleer apprehension &amp; right understanding between our royall Soveraigne and his loyall Parliament: for the happy effecting and accomplishing whereof, let us ascribe unto our all-sufficient God perpetuall praise, and to him I will subscribe for a conclusion this short prayer: <hi>O bone Jesu, esto nobis Jesus;</hi> O good <hi>Jesus,</hi> be thou unto us a <hi>Jesus;</hi> we confidently hope, rely, and depend
+<pb n="6" facs="tcp:156190:5"/>upon thy gracious mercy, that thou wilt not faile us now in the time of our extremity; we lift up our hands to the hornes of the Altar, and elevate our eyes to the hils, from whence cometh our help; as<g ref="char:EOLhyphen"/>suring our selves, that as thou art able, so thou art willing (according to thy promise) to work all things together for good to them that love thee; and this not for any merits of ours, (for we disclaim them, nothing belonging unto us but shame and confusion of face) but for thy mercies sake, for thy names sake, for the peoples sake that are called by thy name, even for <hi>Christ Jesus</hi> sake, the annointed of God, and Saviour of man. O thou preserver of men, save and deliver us from the hands of our enemies, abate their pride, asswage their malice, and confound their devices, that we being preserved through thy help, may glorifie thee who art the on<g ref="char:EOLhyphen"/>ly giver of all victory: to thee be rendred all ho<g ref="char:EOLhyphen"/>nour and glory, now and for ever. <hi>Amen.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
